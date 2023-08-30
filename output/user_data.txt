@@ -1,0 +1,6 @@
+Username: Admin
+Full Name: Admin
+Email: Admin@gmail.com
+Phone: 123456789
+Password: 1234
+
